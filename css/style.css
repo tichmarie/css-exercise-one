@@ -82,6 +82,7 @@ h3 {
   width: 100%;
 }
 
+/*changed background color of last 3 elements to blue*/
 .element2 {
   background-color: blue;
   height: 100px;
